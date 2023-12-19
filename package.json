@@ -3,6 +3,11 @@
   "displayName": "2.077-FEniCSx Extension Pack",
   "description": "A prebuilt extension pack for FEniCSx and the 2.077 pack. Intended for use with docker installation of FEniCSx on a local machine.",
   "version": "0.0.1",
+  "publisher": "2077MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jorgenin/2.077-VS-Code-Extension-Pack"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
