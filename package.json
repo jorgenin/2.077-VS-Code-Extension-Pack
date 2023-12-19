@@ -1,0 +1,40 @@
+{
+  "name": "2-077-fenicsx-extension-pack",
+  "displayName": "2.077-FEniCSx Extension Pack",
+  "description": "A prebuilt extension pack for FEniCSx and the 2.077 pack. Intended for use with docker installation of FEniCSx on a local machine.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "christian-kohler.path-intellisense",
+    "cortex-debug.svd-viewer",
+    "donjayamanne.python-environment-manager",
+    "donjayamanne.python-extension-pack",
+    "KevinRose.vsc-python-indent",
+    "MarkosTh09.color-picker",
+    "mhutchie.git-graph",
+    "ms-azuretools.vscode-docker",
+    "ms-python.black-formatter",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-toolsai.datawrangler",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.jupyter-keymap",
+    "ms-toolsai.jupyter-renderers",
+    "ms-toolsai.vscode-jupyter-cell-tags",
+    "ms-toolsai.vscode-jupyter-slideshow",
+    "ms-vscode-remote.remote-containers",
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode-remote.remote-ssh-edit",
+    "ms-vscode.remote-explorer",
+    "ms-vscode.remote-server",
+    "ms-vscode.vscode-serial-monitor",
+    "tomoki1207.pdf",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
+    "VisualStudioExptTeam.vscodeintellicode"
+  ]
+}
